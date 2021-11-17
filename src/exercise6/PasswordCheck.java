@@ -38,6 +38,6 @@ public class PasswordCheck {
 
           }
         }while (!passwordValid);
-        System.out.println("Password valid");
+        System.out.println("Password valid!");
     }
 }
